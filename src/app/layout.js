@@ -1,3 +1,4 @@
+import "@/assets/scss/style.scss"
 
 export const metadata = {
   title: "Next.js",
